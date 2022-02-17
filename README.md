@@ -22,8 +22,8 @@ SETUP (MANUAL) (Scroll down for automatic setup)
 -Press Program and Next
 
 -Find your osu! path 
-ex. C:\Users\HP\AppData\Local\osu!\osu!.exe
-(Replace HP with your user)
+ex. C:\Users\4321\AppData\Local\osu!\osu!.exe
+(Replace 4321 with your user)
 (make sure to put \osu!.exe in the end)
 
 -Press Next
@@ -37,50 +37,46 @@ ex. C:\Users\HP\AppData\Local\osu!\osu!.exe
 
 FIREWALL SETUP (AUTOMATIC)
 ---------------------------
-# RUN THE FIREWALL RULE SETUP ONLY ONCE. EXCEPT IF THE RULE IN THE FIREWALL ISN'T CORRECT.
-# IF SO THEN DELETE THE RULE AND ONCE DONE, RUN IT AGAIN.
-# I AM NOT RESPONSIBLE FOR ANY DAMAGES IN YOUR SYSTEM.
+ RUN THE FIREWALL RULE SETUP ONLY ONCE. EXCEPT IF THE RULE IN THE FIREWALL ISN'T CORRECT. IF SO, THEN DELETE THE RULE AND ONCE DONE, RUN IT AGAIN.
+ I AM NOT RESPONSIBLE FOR ANY DAMAGES IN YOUR SYSTEM. 
 
-------------------------------------
-FIREWALL RULE SETUP.BAT GUIDE
-------------------------------------
+-Open the .bat file named "Firewall Rule Setup.bat".
 
-Open the .bat file named "Firewall Rule Setup.bat".
+-Find your osu! path 
+ex. C:\Users\4321\AppData\Local\osu!
+(Replace 4321 with your user [eg. HP])
 
-Find your osu! path 
-ex. C:\Users\-^%@\AppData\Local\osu!\osu!.exe
-(Replace -^%@ with your user [eg. HP])
+-Copy your osu! path
+
+-Right click and paste your osu! path.
 # (Make sure to put "\osu!.exe" in the end! Without this, the switcher will NOT work.)
 
-Copy your osu! path
+-Press Enter, if it says it worked, please test the switcher. If it doesn't, please refer to the IMPORTANT section.
 
-Right click and paste your osu! path.
+-The setup will add a rule to your firewall that allows the switcher to work.
 
-Press Enter, if it says it worked, please test the switcher. If it doesn't, please refer to the IMPORTANT section.
 
-The setup will add a rule to your firewall that allows the switcher to work.
-
-------------------
 IMPORTANT
 ------------------
+
 In order to make sure that the rule created is correct, please check by checking the firewall itself.
 
 More details in the section below.
 
----------------------------
 HOW TO CHECK FIREWALL RULE
 ---------------------------
-Open windows firewall through control panel
 
-Press "Advanced Settings"
+-Open windows firewall through control panel
 
-Go to "Outbound Rules"
+-Press "Advanced Settings"
 
-If you see the rule "osuoffline", right click it and press "Properties"
+-Go to "Outbound Rules"
 
-Once in "Properties", select "Programs and Services".
+-If you see the rule "osuoffline", right click it and press "Properties"
 
-You will see your directory in the "Programs" section. Check if this directory leads to your osu!.exe file.
+-Once in "Properties", select "Programs and Services".
+
+-You will see your directory in the "Programs" section. Check if this directory leads to your osu!.exe file.
 # (MAKE SURE YOU DIDN'T FORGET TO ADD "\osu!.exe"!!! IF YOU DIDN'T, NOW'S YOUR CHANCE TO ADD IT.)
 
-If it does lead to your osu!.exe file, then you are now allowed to use the switcher. Enjoy!
+-If it does lead to your osu!.exe file, then you are now allowed to use the switcher. Enjoy!
