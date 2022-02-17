@@ -9,7 +9,7 @@ If you choose to use the setup bat file, read the "FIREWALL SETUP README.txt" fi
 The switcher will enable or disable the rule that blocks osu!'s access to the internet, but 
 it can't do so without administrator access.
 
-SETUP (MANUAL) (Scroll down for automatic setup)
+FIREWALL SETUP (MANUAL) (Scroll down for automatic setup)
 -----------
 -Open windows firewall through control panel
 
