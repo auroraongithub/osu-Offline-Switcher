@@ -49,7 +49,7 @@ ex. C:\Users\4321\AppData\Local\osu!
 -Copy your osu! path
 
 -Right click and paste your osu! path.
-# (Make sure to put "\osu!.exe" in the end! Without this, the switcher will NOT work.)
+(Make sure to put "\osu!.exe" in the end! Without this, the switcher will NOT work.)
 
 -Press Enter, if it says it worked, please test the switcher. If it doesn't, please refer to the IMPORTANT section.
 
