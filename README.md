@@ -77,6 +77,6 @@ HOW TO CHECK FIREWALL RULE
 -Once in "Properties", select "Programs and Services".
 
 -You will see your directory in the "Programs" section. Check if this directory leads to your osu!.exe file.
-# (MAKE SURE YOU DIDN'T FORGET TO ADD "\osu!.exe"!!! IF YOU DIDN'T, NOW'S YOUR CHANCE TO ADD IT.)
+(MAKE SURE YOU DIDN'T FORGET TO ADD "\osu!.exe"!!! IF YOU DIDN'T, NOW'S YOUR CHANCE TO ADD IT.)
 
 -If it does lead to your osu!.exe file, then you are now allowed to use the switcher. Enjoy!
